@@ -1,0 +1,12 @@
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDePersonas\bin\Debug\net8.0\LibreriaDePersonas.deps.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDePersonas\bin\Debug\net8.0\LibreriaDePersonas.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDePersonas\bin\Debug\net8.0\LibreriaDePersonas.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.AssemblyInfo.cs
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.sourcelink.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDePersonas\obj\Debug\net8.0\refint\LibreriaDePersonas.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDePersonas\obj\Debug\net8.0\ref\LibreriaDePersonas.dll
