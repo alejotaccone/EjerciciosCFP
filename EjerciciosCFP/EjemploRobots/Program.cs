@@ -7,17 +7,51 @@ namespace EjemploRobots
     {
         static void Main(string[] args)
         {
-            Robot r1 = new Robot("Robotito",50,30);
-            Robot r2 = new Robot("chat",20,40);
-            Robot r3 = new Robot("Bestia",30,30);
-            Robot r4 = new Robot("Robotito2",10,15);
-            Robot r5 = new Robot("RoboCOP",150,130);
+            Robot r1 = new Robot("Robotito",65,30);
+            Robot r2 = new Robot("chat", 65, 40);
 
-            Console.WriteLine(r1.RobotToString());
-            Console.WriteLine(r2.RobotToString());
+
+            int danioEmitio;
+            int round = 1;
+            do { 
+                Console.WriteLine($"-------- Round: {round++} --------");
+                
+                Console.ForegroundColor = ConsoleColor.Blue;
+                danioEmitio = r1.Atacar();
+                Console.WriteLine($"{r1.GetNombre()} Lanzo un golpe de: {danioEmitio}");
+                Console.WriteLine($"La resistencia de {r2.GetNombre()} es de: {r2.GetResistencia()}");
+                r2.RecibirDanio(danioEmitio);
+                Console.WriteLine($"{r2.GetNombre()} quedo con {r2.GetVida()} puntos de vida");
+
+                Console.WriteLine(r2.GetResistencia());
+
+                //
+                Console.ResetColor();
+                Console.WriteLine("CONTRA ATAQUE");
+
+                
+                Console.ForegroundColor = ConsoleColor.Red;
+                danioEmitio = r2.Atacar();
+                Console.WriteLine($"{r2.GetNombre()} Lanzo un golpe de: {danioEmitio}");
+                Console.WriteLine($"La resistencia de {r1.GetNombre()} es de: {r1.GetResistencia()}");
+                r1.RecibirDanio(danioEmitio);
+                Console.WriteLine($"{r1.GetNombre()} quedo con {r1.GetVida()} puntos de vida");
+
+                Console.WriteLine(r1.GetResistencia());
+
+
+                Console.ResetColor();
+            } while( (r2.GetVida() > 0 && r1.energia > 0) && (r1.GetVida() > 0 && r2.energia > 0));
             
-            Console.WriteLine(r4.RobotToString());
-            Console.WriteLine(r5.RobotToString());
+            
+            if (r1.GetVida() > r2.GetVida() )
+            {
+                Console.WriteLine($"El ganador es {r1.GetNombre()}!");
+            }
+            else
+            {
+                Console.WriteLine($"El ganador es {r2.GetNombre()}");
+            }
 
             //if (r3.SetColor(Color.Blue))
             //{
@@ -28,9 +62,9 @@ namespace EjemploRobots
             //}
             //Console.WriteLine(r3.RobotToString());
 
-            r3.RecibirDanio(r1.Atacar());
 
-            Console.WriteLine(r3.GetVida());
+            
+
 
         }
     }

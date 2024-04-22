@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A10C263-43FF-487D-96D0-C854F39F64D9}|LibreriaDeRobots\\LibreriaDeRobots.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\libreriaderobots\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A10C263-43FF-487D-96D0-C854F39F64D9}|LibreriaDeRobots\\LibreriaDeRobots.csproj|solutionrelative:libreriaderobots\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC0C405C-C762-46AF-B9AC-81AA193B9331}|Ejercicio3Vectores\\Ejercicio3Vectores.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejercicio3vectores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0C405C-C762-46AF-B9AC-81AA193B9331}|Ejercicio3Vectores\\Ejercicio3Vectores.csproj|solutionrelative:ejercicio3vectores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16BEE6F1-D28A-4EAC-B7CC-5455118A643F}|EjemploRobots\\EjemploRobots.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejemplorobots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16BEE6F1-D28A-4EAC-B7CC-5455118A643F}|EjemploRobots\\EjemploRobots.csproj|solutionrelative:ejemplorobots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31C8251E-4B8B-43CC-BEEF-CD11A8ACA56D}|EjercicioFunciones2\\EjercicioFunciones2.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejerciciofunciones2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C8251E-4B8B-43CC-BEEF-CD11A8ACA56D}|EjercicioFunciones2\\EjercicioFunciones2.csproj|solutionrelative:ejerciciofunciones2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9085037D-16B6-427B-9605-B05C1979D13B}|EjemploFunciones\\EjemploFunciones.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejemplofunciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9085037D-16B6-427B-9605-B05C1979D13B}|EjemploFunciones\\EjemploFunciones.csproj|solutionrelative:ejemplofunciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A7F1D6-8F34-418A-A46A-841B213445F0}|EjercicioFunciones3\\EjercicioFunciones3.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejerciciofunciones3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A7F1D6-8F34-418A-A46A-841B213445F0}|EjercicioFunciones3\\EjercicioFunciones3.csproj|solutionrelative:ejerciciofunciones3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194A07F-E626-43D3-B625-7DADD41072C7}|EjercicioFunciones1\\EjercicioFunciones1.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\ejerciciofunciones1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194A07F-E626-43D3-B625-7DADD41072C7}|EjercicioFunciones1\\EjercicioFunciones1.csproj|solutionrelative:ejerciciofunciones1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5167B03-703F-4C36-85DA-81949077570B}|LibreriaDeFunciones\\LibreriaDeFunciones.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\libreriadefunciones\\misfunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5167B03-703F-4C36-85DA-81949077570B}|LibreriaDeFunciones\\LibreriaDeFunciones.csproj|solutionrelative:libreriadefunciones\\misfunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjemploRobots\\Program.cs",
-              "RelativeDocumentMoniker": "EjemploRobots\\Program.cs",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjemploRobots\\Program.cs",
-              "RelativeToolTip": "EjemploRobots\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwA0AAAA0AAAA",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio3Vectores\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3Vectores\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\Ejercicio3Vectores\\Program.cs",
+              "RelativeToolTip": "Ejercicio3Vectores\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwC8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T23:52:30.454Z",
+              "WhenOpened": "2024-04-22T20:29:18.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Robot.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\LibreriaDeRobots\\Robot.cs",
-              "RelativeDocumentMoniker": "LibreriaDeRobots\\Robot.cs",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\LibreriaDeRobots\\Robot.cs",
-              "RelativeToolTip": "LibreriaDeRobots\\Robot.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwD0AAAAdAAAA",
+              "DocumentIndex": 5,
+              "Title": "MisFunciones.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\LibreriaDeFunciones\\MisFunciones.cs",
+              "RelativeDocumentMoniker": "LibreriaDeFunciones\\MisFunciones.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\LibreriaDeFunciones\\MisFunciones.cs",
+              "RelativeToolTip": "LibreriaDeFunciones\\MisFunciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T23:35:42.582Z",
+              "WhenOpened": "2024-04-22T19:53:05.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjercicioFunciones1\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioFunciones1\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjercicioFunciones1\\Program.cs",
+              "RelativeToolTip": "EjercicioFunciones1\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:51:22.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjercicioFunciones2\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioFunciones2\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjercicioFunciones2\\Program.cs",
+              "RelativeToolTip": "EjercicioFunciones2\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:51:18.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjemploFunciones\\Program.cs",
+              "RelativeDocumentMoniker": "EjemploFunciones\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjemploFunciones\\Program.cs",
+              "RelativeToolTip": "EjemploFunciones\\Program.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAIwDEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:47:27.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjercicioFunciones3\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioFunciones3\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjercicioFunciones3\\Program.cs",
+              "RelativeToolTip": "EjercicioFunciones3\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:46:29.638Z",
               "EditorCaption": ""
             }
           ]

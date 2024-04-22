@@ -6,11 +6,16 @@ namespace LibreriaDeRobots
     {
         //atributos
         string nombre;
-        int fuerza;
+        double resistencia;
         double peso;
         Color color;
         int vida;
-        int energia;
+        public int energia;
+        static Random rnd;
+        
+
+        
+
 
         //setters
         public bool SetColor(Color nuevoColor)
@@ -44,9 +49,9 @@ namespace LibreriaDeRobots
             return peso;
         }
 
-        public int GetFuerza()
+        public double GetResistencia()
         {
-            return fuerza;
+            return resistencia;
         }
 
         public int GetVida()
@@ -56,9 +61,9 @@ namespace LibreriaDeRobots
 
         //constructor
 
-        public Robot(string nombre, int fuerza, double peso) { 
+        public Robot(string nombre, int resistencia, double peso) { 
         
-            this.fuerza = fuerza;
+            this.resistencia = resistencia;
             this.peso = peso;
             this.nombre = nombre;
             this.color = Color.White;
@@ -66,29 +71,56 @@ namespace LibreriaDeRobots
             this.energia = 100;
         }
 
+        static Robot()
+        {
+            Robot.rnd = new Random();
+        }
+
         //metodos
         public string RobotToString()
         {
-            return $"Nombre: {nombre} | Vida: {vida} | Peso: {peso}kg | Fuerza: {fuerza} | Color: {color.Name}"; 
+            return $"Nombre: {nombre} | Vida: {vida} | Peso: {peso}kg | Fuerza: {resistencia} | Color: {color.Name}"; 
         }
 
 
         public int Atacar()
         {
             int golpe = 0;
-            Random rnd = new Random();
-            if (vida >0 && energia >0)
-            {
-                golpe = rnd.Next(1,50);
-            }
             
 
-            return golpe;
+            //por cada ataque pierde energia
+            this.energia -= 5;
+
+            //en base a la energia se potencia el golpe
+
+            if (vida >0 && energia >0)
+            {
+                golpe = Robot.rnd.Next(1,this.energia);
+            } 
+
+            return golpe * rnd.Next(1,3);
         }
 
         public void RecibirDanio(int cantidadDanio)
         {
-            this.vida -= fuerza - cantidadDanio;
+            //por cada golpe recibido bajar resistencia(HAGA O NO DANIO)
+
+            
+            int danioTotal = (int)resistencia - cantidadDanio;
+            if (danioTotal < 0)
+            {
+                this.vida += danioTotal; //Ej -> viva(100) + danio(-15)
+            }
+            if (this.vida < 0)
+            {
+                this.vida = 0;
+            }
+            this.BajarResistencia();
+        }
+
+        private void BajarResistencia()
+        {
+            this.resistencia = this.resistencia * 0.95;
         }
 
     }

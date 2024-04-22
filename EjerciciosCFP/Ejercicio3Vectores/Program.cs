@@ -46,7 +46,6 @@
                 Console.WriteLine(mensaje);
                 numeroLeido = Console.ReadLine();
             }
-
             return numeroValido;
         }
 

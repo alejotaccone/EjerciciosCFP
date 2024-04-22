@@ -1,0 +1,15 @@
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\bin\Debug\net8.0\EjercicioFunciones3.exe
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\bin\Debug\net8.0\EjercicioFunciones3.deps.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\bin\Debug\net8.0\EjercicioFunciones3.runtimeconfig.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\bin\Debug\net8.0\EjercicioFunciones3.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\bin\Debug\net8.0\EjercicioFunciones3.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\obj\Debug\net8.0\EjercicioFunciones3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\obj\Debug\net8.0\EjercicioFunciones3.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\obj\Debug\net8.0\EjercicioFunciones3.AssemblyInfo.cs
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\obj\Debug\net8.0\EjercicioFunciones3.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\obj\Debug\net8.0\EjercicioFunciones3.sourcelink.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\obj\Debug\net8.0\EjercicioFunciones3.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\obj\Debug\net8.0\refint\EjercicioFunciones3.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\obj\Debug\net8.0\EjercicioFunciones3.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\obj\Debug\net8.0\EjercicioFunciones3.genruntimeconfig.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\EjercicioFunciones3\obj\Debug\net8.0\ref\EjercicioFunciones3.dll
