@@ -46,15 +46,15 @@
              
         }
 
-        public Persona(int legajo, string nombre, string apellido)
-        {
-            this.legajo = legajo;
-            this.nombre = nombre;
-            this.apellido = apellido;
-            this.sueldo = 0;
-            this.areaDeTrabajo = "Sin puesto";
+        //public Persona(int legajo, string nombre, string apellido)
+        //{
+        //    this.legajo = legajo;
+        //    this.nombre = nombre;
+        //    this.apellido = apellido;
+        //    this.sueldo = 0;
+        //    this.areaDeTrabajo = "Sin puesto";
 
-        }
+        //}
 
 
         //Metodos

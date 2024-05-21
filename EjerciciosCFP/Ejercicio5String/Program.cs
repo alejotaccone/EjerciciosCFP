@@ -11,25 +11,34 @@
             //Nombre: Juan.
 
             string nombreCompleto;
-            string nombre;
-            string apellido;
+            
+
 
             Console.WriteLine("Ingrese su nombre y apellido seprado con un espacio: ");
             nombreCompleto = Console.ReadLine();
 
+            string[] palabras = nombreCompleto.Split(' ');
+            char[] arrayNombre = palabras[0].ToLower().ToCharArray();
+            char[] arrayApellido = palabras[1].ToLower().ToCharArray();
 
 
-            for (int i = 0; i < nombreCompleto.Length; i++)
+            string nombre = arrayNombre.ToString();
+            string apellido = arrayApellido.ToString();
+
+            foreach (char letras in arrayNombre)
             {
-                
-                if (i < nombreCompleto.Length - 1)
-                {
-                    Console.Write(" - ");
-                }
+                Console.Write(letras);
             }
 
+            Console.Write(" ");
 
+            foreach (char letras in arrayApellido)
+            {
 
+                Console.Write(letras);
+            }
+
+            Console.WriteLine($"nOMBRE;");
         }
     }
 }

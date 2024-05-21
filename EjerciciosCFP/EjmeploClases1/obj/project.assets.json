@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjmeploClases1\\EjmeploClases1.csproj",
-      "projectName": "EjmeploClases1",
-      "projectPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjmeploClases1\\EjmeploClases1.csproj",
+      "projectUniqueName": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjmeploClases1\\EjemplosPersonas.csproj",
+      "projectName": "EjemplosPersonas",
+      "projectPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjmeploClases1\\EjemplosPersonas.csproj",
       "packagesPath": "C:\\Users\\alejo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\EjmeploClases1\\obj\\",
       "projectStyle": "PackageReference",

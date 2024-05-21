@@ -1,0 +1,17 @@
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\bin\Debug\net8.0-windows\PrimerFormulario.exe
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\bin\Debug\net8.0-windows\PrimerFormulario.deps.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\bin\Debug\net8.0-windows\PrimerFormulario.runtimeconfig.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\bin\Debug\net8.0-windows\PrimerFormulario.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\bin\Debug\net8.0-windows\PrimerFormulario.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\obj\Debug\net8.0-windows\PrimerFormulario.Form1.resources
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\obj\Debug\net8.0-windows\PrimerFormulario.csproj.GenerateResource.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\obj\Debug\net8.0-windows\PrimerFormulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\obj\Debug\net8.0-windows\PrimerFormulario.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\obj\Debug\net8.0-windows\PrimerFormulario.AssemblyInfo.cs
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\obj\Debug\net8.0-windows\PrimerFormulario.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\obj\Debug\net8.0-windows\PrimerFormulario.sourcelink.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\obj\Debug\net8.0-windows\PrimerFormulario.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\obj\Debug\net8.0-windows\refint\PrimerFormulario.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\obj\Debug\net8.0-windows\PrimerFormulario.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\obj\Debug\net8.0-windows\PrimerFormulario.genruntimeconfig.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\PrimerFormulario\obj\Debug\net8.0-windows\ref\PrimerFormulario.dll

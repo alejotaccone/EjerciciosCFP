@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TesteoDeCohetes/1.0.0": {
+        "dependencies": {
+          "LibreriaDeCohetes": "1.0.0"
+        },
+        "runtime": {
+          "TesteoDeCohetes.dll": {}
+        }
+      },
+      "LibreriaDeCohetes/1.0.0": {
+        "runtime": {
+          "LibreriaDeCohetes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteoDeCohetes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaDeCohetes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
