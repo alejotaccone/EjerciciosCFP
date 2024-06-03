@@ -1,7 +1,9 @@
-﻿using System.Drawing;
-
+﻿using System;
+using System.Drawing;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 namespace LibreriaDeRobots
 {
+
     public class Robot
     {
         //atributos

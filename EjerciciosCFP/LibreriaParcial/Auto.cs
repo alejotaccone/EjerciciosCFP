@@ -10,10 +10,10 @@ namespace LibreriaParcial
     {
         private string marca;
         private double cantCombustible;
-        private string color;
+        private Color color;
 
         
-        public Auto(string marca, double cantCombustible, string color)
+        public Auto(string marca, double cantCombustible, Color color)
         {
             this.marca = marca;
             this.cantCombustible = cantCombustible;
@@ -31,7 +31,7 @@ namespace LibreriaParcial
             return cantCombustible;
         }
 
-        public string GetColor()
+        public Color GetColor()
         {
             return color;
         }
@@ -69,13 +69,30 @@ namespace LibreriaParcial
         }
 
 
-        public static List<string> ColoresValidos()
+       
+
+
+        public static List<string> ColoresValidos2()
         {
             List<string> list = new List<string>()
             {
                 "Azul","Rojo","Verde","Amarillo","Gris"
             };
             return list;
+        }
+
+        public static List<Color> ColoresValidos()
+        {
+            List<Color> list = new List<Color>()
+            {
+               Color.Blue, Color.Red,Color.Green, Color.Yellow, Color.Gray
+            };
+            return list;
+        }
+
+        public override string ToString()
+        {
+            return base.ToString();
         }
 
 

@@ -37,12 +37,14 @@
             btnCrear = new Button();
             listBoxAuto = new ListBox();
             labelMostarAuto = new Label();
+            btn_Limpiar = new Button();
+            btn_Mostrar = new Button();
             SuspendLayout();
             // 
             // comboBox1
             // 
             comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(274, 305);
+            comboBox1.Location = new Point(218, 301);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new Size(222, 23);
             comboBox1.TabIndex = 0;
@@ -50,23 +52,23 @@
             // labelColor
             // 
             labelColor.AutoSize = true;
-            labelColor.Font = new Font("Segoe UI", 13F);
-            labelColor.Location = new Point(274, 277);
+            labelColor.Font = new Font("Comic Sans MS", 12.75F);
+            labelColor.Location = new Point(218, 273);
             labelColor.Name = "labelColor";
-            labelColor.Size = new Size(55, 25);
+            labelColor.Size = new Size(53, 24);
             labelColor.TabIndex = 1;
             labelColor.Text = "Color";
             // 
             // textBoxCombustible
             // 
-            textBoxCombustible.Location = new Point(274, 188);
+            textBoxCombustible.Location = new Point(218, 184);
             textBoxCombustible.Name = "textBoxCombustible";
             textBoxCombustible.Size = new Size(222, 23);
             textBoxCombustible.TabIndex = 2;
             // 
             // textBoxMarca
             // 
-            textBoxMarca.Location = new Point(274, 77);
+            textBoxMarca.Location = new Point(218, 73);
             textBoxMarca.Name = "textBoxMarca";
             textBoxMarca.Size = new Size(222, 23);
             textBoxMarca.TabIndex = 3;
@@ -74,27 +76,27 @@
             // labelMarca
             // 
             labelMarca.AutoSize = true;
-            labelMarca.Font = new Font("Segoe UI", 13F);
-            labelMarca.Location = new Point(274, 49);
+            labelMarca.Font = new Font("Comic Sans MS", 12.75F);
+            labelMarca.Location = new Point(218, 45);
             labelMarca.Name = "labelMarca";
-            labelMarca.Size = new Size(60, 25);
+            labelMarca.Size = new Size(60, 24);
             labelMarca.TabIndex = 4;
             labelMarca.Text = "Marca";
             // 
             // labelComb
             // 
             labelComb.AutoSize = true;
-            labelComb.Font = new Font("Segoe UI", 13F);
-            labelComb.Location = new Point(274, 160);
+            labelComb.Font = new Font("Comic Sans MS", 12.75F);
+            labelComb.Location = new Point(218, 156);
             labelComb.Name = "labelComb";
-            labelComb.Size = new Size(151, 25);
+            labelComb.Size = new Size(147, 24);
             labelComb.TabIndex = 5;
             labelComb.Text = "Cant combustible";
             // 
             // btnCrear
             // 
             btnCrear.Font = new Font("Segoe UI", 10F);
-            btnCrear.Location = new Point(274, 354);
+            btnCrear.Location = new Point(218, 352);
             btnCrear.Name = "btnCrear";
             btnCrear.Size = new Size(75, 40);
             btnCrear.TabIndex = 6;
@@ -106,26 +108,53 @@
             // 
             listBoxAuto.FormattingEnabled = true;
             listBoxAuto.ItemHeight = 15;
-            listBoxAuto.Location = new Point(608, 77);
+            listBoxAuto.Location = new Point(523, 73);
             listBoxAuto.Name = "listBoxAuto";
-            listBoxAuto.Size = new Size(367, 319);
+            listBoxAuto.Size = new Size(598, 319);
             listBoxAuto.TabIndex = 7;
             // 
             // labelMostarAuto
             // 
             labelMostarAuto.AutoSize = true;
-            labelMostarAuto.Font = new Font("Segoe UI", 13F);
-            labelMostarAuto.Location = new Point(608, 49);
+            labelMostarAuto.Font = new Font("Comic Sans MS", 12.75F);
+            labelMostarAuto.Location = new Point(523, 45);
             labelMostarAuto.Name = "labelMostarAuto";
-            labelMostarAuto.Size = new Size(51, 25);
+            labelMostarAuto.Size = new Size(49, 24);
             labelMostarAuto.TabIndex = 8;
             labelMostarAuto.Text = "Auto";
+            // 
+            // btn_Limpiar
+            // 
+            btn_Limpiar.BackColor = Color.Red;
+            btn_Limpiar.Font = new Font("Segoe UI", 10F);
+            btn_Limpiar.Location = new Point(617, 398);
+            btn_Limpiar.Name = "btn_Limpiar";
+            btn_Limpiar.Size = new Size(75, 40);
+            btn_Limpiar.TabIndex = 9;
+            btn_Limpiar.Text = "Limpiar";
+            btn_Limpiar.UseVisualStyleBackColor = false;
+            btn_Limpiar.Click += btn_Limpiar_Click;
+            // 
+            // btn_Mostrar
+            // 
+            btn_Mostrar.BackColor = SystemColors.HotTrack;
+            btn_Mostrar.Font = new Font("Segoe UI", 10F);
+            btn_Mostrar.Location = new Point(523, 398);
+            btn_Mostrar.Name = "btn_Mostrar";
+            btn_Mostrar.Size = new Size(75, 40);
+            btn_Mostrar.TabIndex = 10;
+            btn_Mostrar.Text = "Mostrar";
+            btn_Mostrar.UseVisualStyleBackColor = false;
+            btn_Mostrar.Click += btn_Mostrar_Click;
             // 
             // FormAuto
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(1267, 450);
+            Controls.Add(btn_Mostrar);
+            Controls.Add(btn_Limpiar);
             Controls.Add(labelMostarAuto);
             Controls.Add(listBoxAuto);
             Controls.Add(btnCrear);
@@ -153,5 +182,7 @@
         private Button btnCrear;
         private ListBox listBoxAuto;
         private Label labelMostarAuto;
+        private Button btn_Limpiar;
+        private Button btn_Mostrar;
     }
 }
