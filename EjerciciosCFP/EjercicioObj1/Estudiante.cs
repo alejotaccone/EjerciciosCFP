@@ -10,73 +10,14 @@ namespace EjercicioObj2
     {
         private string apellido;
         private string legajo;
-        private string nombre;
-        private int notaPrimerParcial;
-        private int notaSegundoParcial;
-        private static Random random;
-
-
+        private string nombre; 
+        
 
         public string Apellido { get => apellido; set => apellido = value; }
         public string Legajo { get => legajo; set => legajo = value; }
         public string Nombre { get => nombre; set => nombre = value; }
-        public int NotaPrimerParcial { 
 
-            get => notaPrimerParcial;
-
-            set 
-            {
-                if (value >=0 && value<=10)
-                {
-                    notaPrimerParcial = value;
-                }
-                else
-                {
-                    notaPrimerParcial = 0;
-                }
-
-            }
-        }
-        public int NotaSegundoParcial 
-        { 
-            get => notaSegundoParcial;
-            set
-            {
-                if (value >= 0 && value <= 10)
-                {
-                    notaSegundoParcial = value;
-                }
-                else
-                {
-                    notaSegundoParcial = 0;
-                }
-
-            }
-        }
-
-        public double NotaFinal 
-        {
-            get
-            {
-                return this.CalcularNotaFinal();
-            }
         
-        }
-
-        public double Promedio
-        {
-            get
-            {
-                return this.CalcularPromedio();
-            }
-
-        }
-
-
-        static Estudiante()
-        {
-            random = new Random();
-        }
 
 
         public Estudiante(string nombre, string apellido, string legajo)
@@ -84,62 +25,6 @@ namespace EjercicioObj2
             this.nombre = nombre;
             this.apellido = apellido;
             this.legajo = legajo;
-        }
-
-        public void SetNotaPrimerParcial(int nota)
-        {   
-                this.notaPrimerParcial = nota;  
-        }
-
-        public void SetNotaSegundoParcial(int nota)
-        {           
-                this.notaSegundoParcial = nota;           
-        }
-
-        private double CalcularPromedio()
-        {      
-            return ((double)notaPrimerParcial + notaSegundoParcial) /2;
-        }
-
-        public double CalcularNotaFinal()
-        {
-            double notaFinal;
-
-            if (notaPrimerParcial >= 4 && notaSegundoParcial >= 4)
-            { 
-                notaFinal = random.Next(6, 10);
-            }
-            else
-            {
-                notaFinal = -1;
-            }
-            return notaFinal;
-        }
-
-
-        public string EstudianteToString2()
-        {
-
-           StringBuilder texto = new StringBuilder();
-            double notaFinal = CalcularNotaFinal();
-            string notaFinalText;
-
-
-            texto.AppendLine($"Nombre: {nombre} {apellido}");
-            texto.AppendLine($"Primer parcial: {notaPrimerParcial}");
-            texto.AppendLine($"Segundo Parcial: {notaSegundoParcial}");
-            texto.AppendLine($"Promedio: {CalcularPromedio()}");
-            if (notaFinal != -1)
-            {
-                texto.AppendLine($"Nota Final: {notaFinal}");
-            }
-            else
-            {
-                texto.AppendLine("Alumno desaprobado");
-            }
-           
-            
-            return texto.ToString();
         }
 
         public static List<Estudiante> ListaAlumnos()

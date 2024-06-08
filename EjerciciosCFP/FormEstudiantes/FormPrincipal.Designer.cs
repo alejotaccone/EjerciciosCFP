@@ -28,25 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
-            btnMostrar = new Button();
             btnAgregar = new Button();
-            btnEvaluar = new Button();
             listBoxAlumnos = new ListBox();
-            lblInfo = new Label();
             lblAlumnos = new Label();
-            dataGridViewInfo = new DataGridView();
-            ((System.ComponentModel.ISupportInitialize)dataGridViewInfo).BeginInit();
+            btnMaterias = new Button();
+            labelMaterias = new Label();
+            listBoxMaterias = new ListBox();
+            btnEstadoAcademico = new Button();
             SuspendLayout();
-            // 
-            // btnMostrar
-            // 
-            btnMostrar.Location = new Point(319, 415);
-            btnMostrar.Name = "btnMostrar";
-            btnMostrar.Size = new Size(75, 23);
-            btnMostrar.TabIndex = 0;
-            btnMostrar.Text = "Mostrar";
-            btnMostrar.UseVisualStyleBackColor = true;
-            btnMostrar.Click += btnMostrar_Click;
             // 
             // btnAgregar
             // 
@@ -59,16 +48,6 @@
             btnAgregar.UseVisualStyleBackColor = false;
             btnAgregar.Click += btnAgregar_Click;
             // 
-            // btnEvaluar
-            // 
-            btnEvaluar.Location = new Point(189, 415);
-            btnEvaluar.Name = "btnEvaluar";
-            btnEvaluar.Size = new Size(75, 23);
-            btnEvaluar.TabIndex = 2;
-            btnEvaluar.Text = "Evaluar";
-            btnEvaluar.UseVisualStyleBackColor = true;
-            btnEvaluar.Click += btnEvaluar_Click;
-            // 
             // listBoxAlumnos
             // 
             listBoxAlumnos.FormattingEnabled = true;
@@ -77,16 +56,6 @@
             listBoxAlumnos.Name = "listBoxAlumnos";
             listBoxAlumnos.Size = new Size(150, 349);
             listBoxAlumnos.TabIndex = 4;
-            // 
-            // lblInfo
-            // 
-            lblInfo.AutoSize = true;
-            lblInfo.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblInfo.Location = new Point(189, 21);
-            lblInfo.Name = "lblInfo";
-            lblInfo.Size = new Size(104, 21);
-            lblInfo.TabIndex = 5;
-            lblInfo.Text = "Informacion";
             // 
             // lblAlumnos
             // 
@@ -98,14 +67,44 @@
             lblAlumnos.TabIndex = 6;
             lblAlumnos.Text = "Alumnos";
             // 
-            // dataGridViewInfo
+            // btnMaterias
             // 
-            dataGridViewInfo.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-            dataGridViewInfo.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewInfo.Location = new Point(189, 45);
-            dataGridViewInfo.Name = "dataGridViewInfo";
-            dataGridViewInfo.Size = new Size(899, 349);
-            dataGridViewInfo.TabIndex = 7;
+            btnMaterias.Location = new Point(281, 415);
+            btnMaterias.Name = "btnMaterias";
+            btnMaterias.Size = new Size(75, 23);
+            btnMaterias.TabIndex = 8;
+            btnMaterias.Text = "Agregar Materias";
+            btnMaterias.UseVisualStyleBackColor = true;
+            btnMaterias.Click += btnMaterias_Click;
+            // 
+            // labelMaterias
+            // 
+            labelMaterias.AutoSize = true;
+            labelMaterias.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            labelMaterias.Location = new Point(280, 21);
+            labelMaterias.Name = "labelMaterias";
+            labelMaterias.Size = new Size(76, 21);
+            labelMaterias.TabIndex = 10;
+            labelMaterias.Text = "Materias";
+            // 
+            // listBoxMaterias
+            // 
+            listBoxMaterias.FormattingEnabled = true;
+            listBoxMaterias.ItemHeight = 15;
+            listBoxMaterias.Location = new Point(280, 45);
+            listBoxMaterias.Name = "listBoxMaterias";
+            listBoxMaterias.Size = new Size(150, 349);
+            listBoxMaterias.TabIndex = 9;
+            // 
+            // btnEstadoAcademico
+            // 
+            btnEstadoAcademico.Location = new Point(504, 415);
+            btnEstadoAcademico.Name = "btnEstadoAcademico";
+            btnEstadoAcademico.Size = new Size(146, 23);
+            btnEstadoAcademico.TabIndex = 11;
+            btnEstadoAcademico.Text = "Crear Estado Academico";
+            btnEstadoAcademico.UseVisualStyleBackColor = true;
+            btnEstadoAcademico.Click += btnEstadoAcademico_Click;
             // 
             // FormPrincipal
             // 
@@ -113,29 +112,27 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.HighlightText;
             ClientSize = new Size(1100, 450);
-            Controls.Add(dataGridViewInfo);
+            Controls.Add(btnEstadoAcademico);
+            Controls.Add(labelMaterias);
+            Controls.Add(listBoxMaterias);
+            Controls.Add(btnMaterias);
             Controls.Add(lblAlumnos);
-            Controls.Add(lblInfo);
             Controls.Add(listBoxAlumnos);
-            Controls.Add(btnEvaluar);
             Controls.Add(btnAgregar);
-            Controls.Add(btnMostrar);
             Name = "FormPrincipal";
             Text = "Alumnos";
             Load += FormPrincipal_Load;
-            ((System.ComponentModel.ISupportInitialize)dataGridViewInfo).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
-
-        private Button btnMostrar;
         private Button btnAgregar;
-        private Button btnEvaluar;
         private ListBox listBoxAlumnos;
-        private Label lblInfo;
         private Label lblAlumnos;
-        private DataGridView dataGridViewInfo;
+        private Button btnMaterias;
+        private Label labelMaterias;
+        private ListBox listBoxMaterias;
+        private Button btnEstadoAcademico;
     }
 }

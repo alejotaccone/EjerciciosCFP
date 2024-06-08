@@ -20,3 +20,5 @@ C:\Users\alejo\Desktop\CFP\EjerciciosCFP\FormEstudiantes\obj\Debug\net8.0-window
 C:\Users\alejo\Desktop\CFP\EjerciciosCFP\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.genruntimeconfig.cache
 C:\Users\alejo\Desktop\CFP\EjerciciosCFP\FormEstudiantes\obj\Debug\net8.0-windows\ref\FormEstudiantes.dll
 C:\Users\alejo\Desktop\CFP\EjerciciosCFP\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.FormAgregar.resources
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.FormAgregarMaterias.resources
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\FormEstudiantes\obj\Debug\net8.0-windows\FormEstudiantes.FormEvaluacion.resources

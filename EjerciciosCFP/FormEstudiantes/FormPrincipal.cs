@@ -5,6 +5,7 @@ namespace FormEstudiantes
     {
 
         private List<Estudiante> alumnos;
+        private List<Materia> materias;
         public FormPrincipal()
         {
             InitializeComponent();
@@ -14,15 +15,11 @@ namespace FormEstudiantes
         {
             this.alumnos = new List<Estudiante>();
             this.alumnos = Estudiante.ListaAlumnos();
+            this.materias = new List<Materia>();
             this.listBoxAlumnos.DataSource = this.alumnos;
         }
 
-        private void btnMostrar_Click(object sender, EventArgs e)
-        {
 
-            CargarDataGridAlumnos();
-
-        }
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
@@ -34,35 +31,61 @@ namespace FormEstudiantes
                 //uso propiedad MiAlumno para agregarlo a la lista
                 alumnos.Add(formAlta.MiAlumno);
                 CargarListarAlumnos();
-                
+
 
             }
         }
 
 
-        private void CargarListarAlumnos ()
+        private void CargarListarAlumnos()
         {
             listBoxAlumnos.DataSource = null;
             listBoxAlumnos.DataSource = alumnos;
         }
 
-        private void CargarDataGridAlumnos()
+        private void CargarListarMaterias()
         {
-            dataGridViewInfo.DataSource = null;
-            dataGridViewInfo.DataSource = alumnos;
+            listBoxMaterias.DataSource = null;
+            listBoxMaterias.DataSource = materias;
         }
+
+
 
         private void btnEvaluar_Click(object sender, EventArgs e)
         {
 
             Random rdn = new Random();
 
-            foreach (Estudiante item in alumnos)
-            {
-                item.NotaPrimerParcial = rdn.Next(1, 10);
-                item.NotaSegundoParcial = rdn.Next(1, 10);
-            }
+
 
         }
+
+        private void btnMaterias_Click(object sender, EventArgs e)
+        {
+            FormAgregarMaterias formAgregarMaterias = new FormAgregarMaterias();
+
+            formAgregarMaterias.ShowDialog();
+
+            if (formAgregarMaterias.DialogResult == DialogResult.OK)
+            {
+                materias.Add(formAgregarMaterias.MiMateria);
+                CargarListarMaterias();
+            }
+        }
+
+        private void btnEstadoAcademico_Click(object sender, EventArgs e)
+        {
+
+            Estudiante alumno = alumnos[0];
+            List<Materia> lista = materias;
+            string carrera = "Tec. Programacion";
+
+            FormEvaluacion evaluacion = new FormEvaluacion(alumno,lista,carrera);
+            evaluacion.ShowDialog();
+        }
+
+        
+
+
     }
 }
