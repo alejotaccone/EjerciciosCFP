@@ -1,0 +1,12 @@
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeEmpleados\bin\Debug\net8.0\LibreriaDeEmpleados.deps.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeEmpleados\bin\Debug\net8.0\LibreriaDeEmpleados.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeEmpleados\bin\Debug\net8.0\LibreriaDeEmpleados.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeEmpleados\obj\Debug\net8.0\LibreriaDeEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeEmpleados\obj\Debug\net8.0\LibreriaDeEmpleados.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeEmpleados\obj\Debug\net8.0\LibreriaDeEmpleados.AssemblyInfo.cs
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeEmpleados\obj\Debug\net8.0\LibreriaDeEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeEmpleados\obj\Debug\net8.0\LibreriaDeEmpleados.sourcelink.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeEmpleados\obj\Debug\net8.0\LibreriaDeEmpleados.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeEmpleados\obj\Debug\net8.0\refint\LibreriaDeEmpleados.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeEmpleados\obj\Debug\net8.0\LibreriaDeEmpleados.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeEmpleados\obj\Debug\net8.0\ref\LibreriaDeEmpleados.dll

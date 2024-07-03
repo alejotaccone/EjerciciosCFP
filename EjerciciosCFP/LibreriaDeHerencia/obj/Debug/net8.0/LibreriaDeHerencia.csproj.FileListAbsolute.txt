@@ -1,0 +1,12 @@
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeHerencia\bin\Debug\net8.0\LibreriaDeHerencia.deps.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeHerencia\bin\Debug\net8.0\LibreriaDeHerencia.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeHerencia\bin\Debug\net8.0\LibreriaDeHerencia.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeHerencia\obj\Debug\net8.0\LibreriaDeHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeHerencia\obj\Debug\net8.0\LibreriaDeHerencia.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeHerencia\obj\Debug\net8.0\LibreriaDeHerencia.AssemblyInfo.cs
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeHerencia\obj\Debug\net8.0\LibreriaDeHerencia.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeHerencia\obj\Debug\net8.0\LibreriaDeHerencia.sourcelink.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeHerencia\obj\Debug\net8.0\LibreriaDeHerencia.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeHerencia\obj\Debug\net8.0\refint\LibreriaDeHerencia.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeHerencia\obj\Debug\net8.0\LibreriaDeHerencia.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeHerencia\obj\Debug\net8.0\ref\LibreriaDeHerencia.dll

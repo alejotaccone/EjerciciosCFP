@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TesteoDeEmpleados/1.0.0": {
+        "dependencies": {
+          "LibreriaDeEmpleados": "1.0.0"
+        },
+        "runtime": {
+          "TesteoDeEmpleados.dll": {}
+        }
+      },
+      "LibreriaDeEmpleados/1.0.0": {
+        "runtime": {
+          "LibreriaDeEmpleados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteoDeEmpleados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaDeEmpleados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

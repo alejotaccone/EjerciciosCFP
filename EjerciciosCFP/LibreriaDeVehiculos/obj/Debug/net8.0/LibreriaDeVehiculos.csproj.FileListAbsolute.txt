@@ -1,0 +1,12 @@
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeVehiculos\bin\Debug\net8.0\LibreriaDeVehiculos.deps.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeVehiculos\bin\Debug\net8.0\LibreriaDeVehiculos.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeVehiculos\bin\Debug\net8.0\LibreriaDeVehiculos.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeVehiculos\obj\Debug\net8.0\LibreriaDeVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeVehiculos\obj\Debug\net8.0\LibreriaDeVehiculos.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeVehiculos\obj\Debug\net8.0\LibreriaDeVehiculos.AssemblyInfo.cs
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeVehiculos\obj\Debug\net8.0\LibreriaDeVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeVehiculos\obj\Debug\net8.0\LibreriaDeVehiculos.sourcelink.json
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeVehiculos\obj\Debug\net8.0\LibreriaDeVehiculos.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeVehiculos\obj\Debug\net8.0\refint\LibreriaDeVehiculos.dll
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeVehiculos\obj\Debug\net8.0\LibreriaDeVehiculos.pdb
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\LibreriaDeVehiculos\obj\Debug\net8.0\ref\LibreriaDeVehiculos.dll
