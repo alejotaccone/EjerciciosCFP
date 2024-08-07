@@ -35,6 +35,7 @@ namespace FormPrincipal
             {
                 lapiceras.Add(formAlta.NuevaLapicera);
                 CargarDGV();
+
             }
         }
 

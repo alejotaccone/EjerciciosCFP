@@ -1,0 +1,8 @@
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.FormAlta.resources
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.FormPrincipal.resources
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\WinFormsApp1\obj\Debug\net8.0-windows\FormIngresante.csproj.GenerateResource.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\WinFormsApp1\obj\Debug\net8.0-windows\FormIngresante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\WinFormsApp1\obj\Debug\net8.0-windows\FormIngresante.AssemblyInfoInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\WinFormsApp1\obj\Debug\net8.0-windows\FormIngresante.AssemblyInfo.cs
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\WinFormsApp1\obj\Debug\net8.0-windows\FormIngresante.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\CFP\EjerciciosCFP\WinFormsApp1\obj\Debug\net8.0-windows\FormIngresante.sourcelink.json

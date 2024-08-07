@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimerFormulario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+930c5b057c12d46305b0ee297118a90eafa4b817")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06616d0ea440bf979cd83ed47446dd877ebfbb1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimerFormulario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimerFormulario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

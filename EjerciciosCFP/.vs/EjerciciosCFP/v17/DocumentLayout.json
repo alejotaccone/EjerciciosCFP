@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D04B017-7BD4-4D5A-9FE5-DE7132DDA882}|FormLapiceraDos\\FormLapiceraDos.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\formlapicerados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4D04B017-7BD4-4D5A-9FE5-DE7132DDA882}|FormLapiceraDos\\FormLapiceraDos.csproj|solutionrelative:formlapicerados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B8ECA893-C6C1-4848-A962-1C7E349EB50F}|FormComputadora\\FormComputadora.csproj|C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\formcomputadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ECA893-C6C1-4848-A962-1C7E349EB50F}|FormComputadora\\FormComputadora.csproj|solutionrelative:formcomputadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D04B017-7BD4-4D5A-9FE5-DE7132DDA882}|FormLapiceraDos\\FormLapiceraDos.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\formlapicerados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D04B017-7BD4-4D5A-9FE5-DE7132DDA882}|FormLapiceraDos\\FormLapiceraDos.csproj|solutionrelative:formlapicerados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8ECA893-C6C1-4848-A962-1C7E349EB50F}|FormComputadora\\FormComputadora.csproj|C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\formcomputadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8ECA893-C6C1-4848-A962-1C7E349EB50F}|FormComputadora\\FormComputadora.csproj|solutionrelative:formcomputadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D04B017-7BD4-4D5A-9FE5-DE7132DDA882}|FormLapiceraDos\\FormLapiceraDos.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\formlapicerados\\formaltados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D04B017-7BD4-4D5A-9FE5-DE7132DDA882}|FormLapiceraDos\\FormLapiceraDos.csproj|solutionrelative:formlapicerados\\formaltados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8ECA893-C6C1-4848-A962-1C7E349EB50F}|FormComputadora\\FormComputadora.csproj|C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\formcomputadora\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ECA893-C6C1-4848-A962-1C7E349EB50F}|FormComputadora\\FormComputadora.csproj|solutionrelative:formcomputadora\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D04B017-7BD4-4D5A-9FE5-DE7132DDA882}|FormLapiceraDos\\FormLapiceraDos.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\formlapicerados\\formaltados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4D04B017-7BD4-4D5A-9FE5-DE7132DDA882}|FormLapiceraDos\\FormLapiceraDos.csproj|solutionrelative:formlapicerados\\formaltados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B8ECA893-C6C1-4848-A962-1C7E349EB50F}|FormComputadora\\FormComputadora.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\formcomputadora\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8ECA893-C6C1-4848-A962-1C7E349EB50F}|FormComputadora\\FormComputadora.csproj|solutionrelative:formcomputadora\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F8F57AB-F67F-4A50-BEBF-F23FCA234AB5}|LibreriaDeLapiceras\\LibreriaDeLapiceras.csproj|C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\libreriadelapiceras\\lapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F8F57AB-F67F-4A50-BEBF-F23FCA234AB5}|LibreriaDeLapiceras\\LibreriaDeLapiceras.csproj|solutionrelative:libreriadelapiceras\\lapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC688F7F-C618-4003-8413-7D3DEA27D9EB}|LibreriaDeComputadoras\\LibreriaDeComputadoras.csproj|C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\libreriadecomputadoras\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC688F7F-C618-4003-8413-7D3DEA27D9EB}|LibreriaDeComputadoras\\LibreriaDeComputadoras.csproj|solutionrelative:libreriadecomputadoras\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA4BEB0-F619-48A1-A441-EC4B15ADB036}|FormPrincipal\\FormPrincipal.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\formprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8ECA893-C6C1-4848-A962-1C7E349EB50F}|FormComputadora\\FormComputadora.csproj|C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\formcomputadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ECA893-C6C1-4848-A962-1C7E349EB50F}|FormComputadora\\FormComputadora.csproj|solutionrelative:formcomputadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA56C864-1472-4270-8420-C77314719C66}|TesteoDeEmpleados\\TesteoDeEmpleados.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\testeodeempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA56C864-1472-4270-8420-C77314719C66}|TesteoDeEmpleados\\TesteoDeEmpleados.csproj|solutionrelative:testeodeempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA4BEB0-F619-48A1-A441-EC4B15ADB036}|FormPrincipal\\FormPrincipal.csproj|C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\formprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBA4BEB0-F619-48A1-A441-EC4B15ADB036}|FormPrincipal\\FormPrincipal.csproj|solutionrelative:formprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA4BEB0-F619-48A1-A441-EC4B15ADB036}|FormPrincipal\\FormPrincipal.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\formprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EBA4BEB0-F619-48A1-A441-EC4B15ADB036}|FormPrincipal\\FormPrincipal.csproj|C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\formprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EBA4BEB0-F619-48A1-A441-EC4B15ADB036}|FormPrincipal\\FormPrincipal.csproj|solutionrelative:formprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA4BEB0-F619-48A1-A441-EC4B15ADB036}|FormPrincipal\\FormPrincipal.csproj|c:\\users\\alejo\\desktop\\cfp\\ejercicioscfp\\formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA4BEB0-F619-48A1-A441-EC4B15ADB036}|FormPrincipal\\FormPrincipal.csproj|solutionrelative:formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,111 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormAlta.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormPrincipal\\FormAlta.cs",
-              "RelativeDocumentMoniker": "FormPrincipal\\FormAlta.cs",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormPrincipal\\FormAlta.cs",
-              "RelativeToolTip": "FormPrincipal\\FormAlta.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA1wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T18:30:33.98Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\TesteoDeEmpleados\\Program.cs",
+              "RelativeDocumentMoniker": "TesteoDeEmpleados\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\TesteoDeEmpleados\\Program.cs",
+              "RelativeToolTip": "TesteoDeEmpleados\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:06:24.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormComputadora\\Program.cs",
+              "RelativeDocumentMoniker": "FormComputadora\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormComputadora\\Program.cs",
+              "RelativeToolTip": "FormComputadora\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T00:36:42.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Computadora.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\LibreriaDeComputadoras\\Computadora.cs",
+              "RelativeDocumentMoniker": "LibreriaDeComputadoras\\Computadora.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\LibreriaDeComputadoras\\Computadora.cs",
+              "RelativeToolTip": "LibreriaDeComputadoras\\Computadora.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwBAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:33:31.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAlta.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormComputadora\\FormAlta.cs",
+              "RelativeDocumentMoniker": "FormComputadora\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormComputadora\\FormAlta.cs",
+              "RelativeToolTip": "FormComputadora\\FormAlta.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA9wDgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:31:24.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAlta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormComputadora\\FormAlta.cs",
+              "RelativeDocumentMoniker": "FormComputadora\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormComputadora\\FormAlta.cs [Design]",
+              "RelativeToolTip": "FormComputadora\\FormAlta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:26:47.091Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormComputadora\\Form1.cs",
+              "RelativeDocumentMoniker": "FormComputadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormComputadora\\Form1.cs",
+              "RelativeToolTip": "FormComputadora\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:03:10.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormComputadora\\Form1.cs",
+              "RelativeDocumentMoniker": "FormComputadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormComputadora\\Form1.cs [Design]",
+              "RelativeToolTip": "FormComputadora\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:24:25.07Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormPrincipal\\Form1.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\Form1.cs",
+              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormPrincipal\\Form1.cs",
+              "RelativeToolTip": "FormPrincipal\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:31:01.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormPrincipal\\Form1.cs",
               "RelativeDocumentMoniker": "FormPrincipal\\Form1.cs",
               "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormPrincipal\\Form1.cs [Design]",
               "RelativeToolTip": "FormPrincipal\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T18:30:29.12Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormPrincipal\\Form1.cs",
-              "RelativeDocumentMoniker": "FormPrincipal\\Form1.cs",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormPrincipal\\Form1.cs",
-              "RelativeToolTip": "FormPrincipal\\Form1.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAIwAgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T18:25:15.707Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormLapiceraDos\\Form1.cs",
-              "RelativeDocumentMoniker": "FormLapiceraDos\\Form1.cs",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormLapiceraDos\\Form1.cs [Design]",
-              "RelativeToolTip": "FormLapiceraDos\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T18:15:40.584Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormLapiceraDos\\Form1.cs",
-              "RelativeDocumentMoniker": "FormLapiceraDos\\Form1.cs",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormLapiceraDos\\Form1.cs",
-              "RelativeToolTip": "FormLapiceraDos\\Form1.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAgwAUAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T18:53:25.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormAltaDos.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormLapiceraDos\\FormAltaDos.cs",
-              "RelativeDocumentMoniker": "FormLapiceraDos\\FormAltaDos.cs",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormLapiceraDos\\FormAltaDos.cs [Design]",
-              "RelativeToolTip": "FormLapiceraDos\\FormAltaDos.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T18:47:48.072Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormAltaDos.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormLapiceraDos\\FormAltaDos.cs",
-              "RelativeDocumentMoniker": "FormLapiceraDos\\FormAltaDos.cs",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\FormLapiceraDos\\FormAltaDos.cs",
-              "RelativeToolTip": "FormLapiceraDos\\FormAltaDos.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAowBkAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T18:50:45.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Lapicera.cs",
-              "DocumentMoniker": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\LibreriaDeLapiceras\\Lapicera.cs",
-              "RelativeDocumentMoniker": "LibreriaDeLapiceras\\Lapicera.cs",
-              "ToolTip": "C:\\Users\\alejo\\Desktop\\CFP\\EjerciciosCFP\\LibreriaDeLapiceras\\Lapicera.cs",
-              "RelativeToolTip": "LibreriaDeLapiceras\\Lapicera.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAxwCcAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T21:53:54.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T22:30:43.234Z"
             }
           ]
         }
